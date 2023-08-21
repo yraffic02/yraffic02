@@ -1,6 +1,7 @@
 -Estou com problemas no meu email principal e perdi acesso a tudo.
 - Criei esse github segundário por enquanto
 - github que estou sem acesso => https://github.com/Yraffic
+- atualmente estou estudando flutter
 
 <!---
 yraffic02/yraffic02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
