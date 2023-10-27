@@ -1,9 +1,27 @@
--Estou com problemas no meu email principal e perdi acesso a tudo.
-- Criei esse github segundário por enquanto
-- github que estou sem acesso => https://github.com/Yraffic
-- atualmente estou estudando flutter
+# Olá, eu sou o Yuri! 👋
 
-<!---
-yraffic02/yraffic02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🚀 Sobre mim
+
+- Sou desenvolvedor Full stack
+- Desenvolvedor mobile 
+- Atualmente estou desenvolvendo projetos freelancers
+- Perdi acesso ao meu antigo git o @Yraffic, infelizmente perdi acesso do meu meail principal
+
+
+## 🛠 Tecnologias 
+Javascript, Typescript e Dart
+ReactJs, NextJs e Flutter
+NodeJs, Express, Api rest
+Postgresql e Mysql
+Material ui e ChakraUi
+
+## Habilidades
+ Boa comunicação, aprendizagem rapida, gitflow e metodologias ageis 
+
+
+## 🔗 Links
+Meu portifolio está em atualização, qual quer coisa é só dar uma passada no insta da @reactwebsolutions
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://reactwebsolutions.netlify.app/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yraffic)
