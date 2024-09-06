@@ -10,11 +10,11 @@
 
 
 ## 🛠 Tecnologias 
-Javascript, Typescript e Dart
-ReactJs, NextJs e Flutter
-NodeJs, Express, Api rest
-Postgresql e Mysql
-Material ui e ChakraUi
+ - Javascript, Typescript e Dart
+ - ReactJs, NextJs, Context api e redux/  Flutter, Bloc
+ - NodeJs, Express, Api rest, Sequelize e Prisma
+ - Postgresql e Mysql
+ - Material ui e ChakraUi
 
 ## Habilidades
  Boa comunicação, aprendizagem rapida, gitflow e metodologias ageis 
