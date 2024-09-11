@@ -11,7 +11,7 @@
 ## 🛠 Tecnologias 
  - Javascript, Typescript e Dart
  - ReactJs, NextJs, Context api e redux/  Flutter, Bloc
- - NodeJs, Express, Api rest, Sequelize e Prisma
+ - NodeJs, Express, Api rest, Sequelize, Prisma e Docker
  - Postgresql e Mysql
  - Material ui e ChakraUi
 
